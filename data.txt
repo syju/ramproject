@@ -1,1 +1,2 @@
 today is the day
+global day is a head
